@@ -11,5 +11,5 @@ Here is what you will find in this tutorial:
 
 * What you will actually need to learn about Python to empower your DS/Analytics workflow
 * And that’s it!
-* 
+
 Whether you are an absolute beginner or a seasoned data professional looking to refresh some knowledge, this tutorial should do you some good.
